@@ -1,0 +1,14 @@
+.bannerMain{
+    background-image: url("https://wallpaperaccess.com/full/2703652.png");
+    height: 500px;
+    width: 100%;
+    background-size: cover;
+}
+
+.shadow{
+    width: 100%;
+    height: 100px;
+    background-image: linear-gradient(to top, rgb(41, 39, 39, 1) , rgb(143, 138, 138, 0.0));
+    position :absolute;
+    top: 400px;
+}
